@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #e6e6e6;
+  background: url('./wall.jpg') center / cover no-repeat;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.container {
+  position: relative;
+  max-width: 300px;
+  margin-top: 10%;
+}
+
+.clock {
+  vertical-align: top;
+  max-width: 100%;
+}
+
+.hour-hand {
+  position: absolute;
+  width: 105px;
+  top: 64px;
+  left: 98px;
+  transform-origin: 50% 80%;
+  z-index: 1;
+}
+
+.minute-hand {
+  position: absolute;
+  width: 130px;
+  top: 44px;
+  left: 85px;
+  transform-origin: 50% 80%;
+  z-index: 2;
+}
+
+.seconds-hand {
+  position: absolute;
+  width: 137px;
+  left: 80px;
+  top: 42px;
+  transform-origin: 51% 77%;
+  z-index: 3;
+}
+
+@media (max-width: 768px) {
+  body {
+    background: url('./wall-mobile.jpg') center / cover no-repeat;
+  }
+
+  .main {
+    align-items: center;
+  }
+
+  .container {
+    max-width: 200px;
+    margin-top: 0;
+  }
+
+  .hour-hand {
+    width: 60px;
+    top: 50px;
+    left: 70px;
+  }
+
+  .minute-hand {
+    width: 75px;
+    top: 39px;
+    left: 62px;
+  }
+
+  .seconds-hand {
+    width: 80px;
+    left: 59px;
+    top: 37px;
+  }
+}
