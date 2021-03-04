@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <title>Playing with Css variables and Js</title>
+  </head>
+  <body>
+    <main>
+      <div class="wrapper">
+        <h1 class="title">Playing with Css variables and <span class="color">Js</span></h1>
+
+        <div class="settings">
+          <label for="fz">
+            <p>Font-size: <span class="value">18px</span></p>
+            <input
+              type="range"
+              name="fz"
+              id="font-size"
+              min="8"
+              max="50"
+              value="18"
+              data-sizing="px"
+            />
+          </label>
+
+          <label for="lh">
+            <p>Line-height: <span class="value">18px</span></p>
+            <input
+              type="range"
+              name="lh"
+              id="line-height"
+              min="8"
+              max="50"
+              value="18"
+              data-sizing="px"
+            />
+          </label>
+
+          <label for="blur">
+            <p>Blur: <span class="value">5px</span></p>
+            <input type="range" name="blur" id="blur" min="0" max="25" value="5" data-sizing="px" />
+          </label>
+
+          <label for="bgc">
+            <p>background: <span class="value">#e6e6e6</span></p>
+            <input type="color" name="bgc" id="background" value="#e6e6e6" />
+          </label>
+
+          <label for="color">
+            <p>Color: <span class="value">#990000</span></p>
+            <input type="color" name="color" id="color" value="#990000" />
+          </label>
+        </div>
+
+        <p class="text">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque nulla quaerat
+          provident architecto nostrum, doloribus assumenda nam! Voluptatum porro deserunt nobis
+          minima debitis quia, quas et assumenda doloremque harum, optio id atque voluptate
+          voluptatem. Est officiis eum et esse necessitatibus labore ex, vel quibusdam. Minus eum
+          quas neque reiciendis quibusdam!
+        </p>
+
+        <img src="http://unsplash.it/800/500" alt="image" />
+      </div>
+    </main>
+
+    <script src="./index.js"></script>
+  </body>
+</html>
