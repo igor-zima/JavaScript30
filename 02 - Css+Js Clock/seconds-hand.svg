@@ -1,0 +1,26 @@
+<svg width="410" height="416" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient3377">
+   <stop offset="0" id="stop3379" stop-color="#3ca1f6"/>
+   <stop offset="1" id="stop3381" stop-color="#207dcc"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3322">
+   <stop id="stop3333" offset="0" stop-color="#f7f7f7"/>
+   <stop offset="1" id="stop3326" stop-color="#c2c2c2"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient3377" id="linearGradient3664" x1="1" y1="0.96596" x2="0.28303" y2="0.04013"/>
+  <radialGradient xlink:href="#linearGradient3322" id="radialGradient3687" gradientUnits="userSpaceOnUse" cx="197.85715" cy="202.14285" fx="197.85715" fy="202.14285" r="189.28572"/>
+ </defs>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1"/>
+  <g transform="rotate(29.08137321472168 182.26516723632793,155.01040649414065) " id="svg_3"/>
+  <g stroke="null" transform="rotate(28.416057586669922 190.76518249511727,208.51040649414062) " id="svg_4"/>
+  <g transform="rotate(29.31450653076172 190.7651824951173,208.51042175292963) " id="svg_5"/>
+  <path transform="rotate(30.166170120239258 204.080810546875,211.44497680664065) " stroke="null" d="m104.10669,39.5926l-9.26883,5.38551l148.6762,240.32494c-6.12084,5.28389 -9.94317,12.97843 -9.79195,21.54585c0.2752,15.58891 13.53255,28.02395 29.59232,27.75684c3.39067,-0.05641 6.59324,-0.70767 9.60167,-1.79451l31.20618,50.48617l9.2015,-5.38438l-31.20614,-50.48617c6.12082,-5.28389 9.94317,-12.97841 9.79195,-21.54585c-0.27525,-15.58887 -13.53257,-28.02395 -29.59232,-27.75682c-3.39069,0.05643 -6.59324,0.70765 -9.60174,1.79454l-148.60884,-240.32611z" id="path3359" stroke-dashoffset="0" stroke-miterlimit="4" marker-end="none" marker-mid="none" marker-start="none" stroke-width="2.7" fill-rule="evenodd" fill-opacity="0.16571" fill="#000000"/>
+  <path transform="rotate(30.166170120239258 209.0264739990235,208.36651611328125) " stroke="null" d="m112.10051,34.87608l-9.36255,5.23054l144.41228,242.76239c-6.21322,5.18131 -10.17083,12.81118 -10.17083,21.37983c0,15.59121 13.03588,28.24491 29.098,28.24491c3.39119,0 6.60475,-0.59789 9.63198,-1.63454l30.31041,50.99776l9.29519,-5.23054l-30.31041,-50.99776c6.21322,-5.18131 10.17083,-12.81114 10.17083,-21.37983c0,-15.59119 -13.0359,-28.24491 -29.098,-28.24491c-3.39119,0 -6.60477,0.59791 -9.63198,1.63454l-144.34493,-242.76239z" id="path3259" stroke-dashoffset="0" stroke-miterlimit="4" marker-end="none" marker-mid="none" marker-start="none" stroke-width="2.7" fill-rule="evenodd" fill="url(#linearGradient3664)"/>
+  <path transform="rotate(30.166170120239258 210.16931152343736,319.9323120117188) " stroke="null" id="path3320" d="m227.41258,319.9323a17.24326,16.73773 0 1 1 -34.48652,0a17.24326,16.73773 0 1 1 34.48652,0z" stroke-dashoffset="0" stroke-miterlimit="4" marker-end="none" marker-mid="none" marker-start="none" stroke-width="2.7" fill-rule="evenodd" fill="#9c9c9c"/>
+  <path transform="rotate(30.166170120239258 210.16931152343736,319.9323120117188) " id="path3386" d="m225.25717,319.93232a15.08785,14.64551 0 1 1 -30.1757,0a15.08785,14.64551 0 1 1 30.1757,0z" stroke-dashoffset="0" stroke-miterlimit="4" marker-end="none" marker-mid="none" marker-start="none" stroke-width="2.7" fill-rule="evenodd" fill="url(#radialGradient3687)"/>
+ </g>
+</svg>

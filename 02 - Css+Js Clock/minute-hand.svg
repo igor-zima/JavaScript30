@@ -1,0 +1,18 @@
+<svg width="410" height="416" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient3335">
+   <stop stop-color="#f5f5f5" id="stop3337" offset="0"/>
+   <stop stop-color="#e5e5e5" id="stop3339" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.88391" y1="0.33674" x1="0" id="linearGradient3660" xlink:href="#linearGradient3335"/>
+ </defs>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1"/>
+  <g id="svg_2" transform="rotate(76.13090515136719 198.9897155761719,207.95829772949216) " stroke="null"/>
+  <g id="svg_3" transform="rotate(76.4146499633789 204.99999999999994,207.99998474121097) "/>
+  <path fill="#000000" fill-opacity="0.16571" fill-rule="evenodd" stroke-width="2.7" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="path3367" d="m83.09269,151.18637c-10.65101,-0.15831 -20.03424,4.60625 -25.44074,11.87004l-40.60173,-10.14459l-4.78282,14.5455l40.60175,10.14459c0.2687,13.93427 13.11532,25.3001 29.20922,25.53928c10.66548,0.15844 20.11544,-4.58847 25.5183,-11.86898l287.14575,71.73268l4.70524,-14.54662l-287.14572,-71.73262c-0.26872,-13.93431 -13.11534,-25.30017 -29.20924,-25.53928l-0.00001,0z" transform="rotate(-103.78079223632812 205.85754394531244,207.09371948242185) "/>
+  <path fill="url(#linearGradient3660)" fill-rule="evenodd" stroke-width="2.7" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="path3281" d="m78.25359,153.82649c-10.65255,0 -19.94142,4.90325 -25.20535,12.24634l-40.79389,-9.53996l-4.49819,14.61441l40.79389,9.53996c0.54065,13.92831 13.6073,25.1016 29.70354,25.1016c10.66699,0 20.02292,-4.8866 25.2829,-12.24634l288.50429,67.45633l4.42063,-14.61441l-288.50426,-67.45633c-0.5407,-13.92823 -13.60735,-25.1016 -29.70354,-25.1016l-0.00002,0z" stroke="null" transform="rotate(-103.78079223632812 202.1088104248047,207.41264343261722) "/>
+ </g>
+</svg>
