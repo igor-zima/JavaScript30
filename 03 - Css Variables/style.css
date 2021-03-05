@@ -1,0 +1,45 @@
+:root {
+  --bgc: #e6e6e6;
+  --color: #990000;
+  --fz: 18px;
+  --blur: 5px;
+  --lh: 18px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: var(--bgc);
+}
+
+.wrapper {
+  width: 90%;
+  overflow: hidden;
+  margin: 0 auto;
+  text-align: center;
+  min-height: 100vh;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.settings {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.text {
+  line-height: var(--lh);
+  font-size: var(--fz);
+  color: var(--color);
+}
+
+img {
+  filter: blur(var(--blur));
+}
