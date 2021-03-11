@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <title>Fun with html5 canvas</title>
+  </head>
+  <body>
+    <div class="container">
+      <form class="form" id="form">
+        <label for="color">
+          <span>Color:</span>
+          <input type="color" name="color" id="color" />
+        </label>
+        <label for="line-size">
+          <span>Line width:</span>
+          <input list="line-width" id="line-size" name="line-size" />
+          <datalist id="line-width">
+            <option value="8"></option>
+            <option value="10"></option>
+            <option value="12"></option>
+            <option value="14"></option>
+            <option value="16"></option>
+            <option value="18"></option>
+            <option value="20"></option>
+            <option value="22"></option>
+            <option value="24"></option>
+            <option value="26"></option>
+            <option value="28"></option>
+            <option value="30"></option>
+            <option value="32"></option>
+          </datalist>
+        </label>
+        <button id="clear" type="button">Clear</button>
+      </form>
+      <canvas class="canvas" id="canvas" width="100" height="100"></canvas>
+    </div>
+
+    <script src="./index.js"></script>
+  </body>
+</html>
